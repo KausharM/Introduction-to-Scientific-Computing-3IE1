@@ -18,8 +18,10 @@ first quarter moon = :first_quarter_moon:
 full moon = :full_moon:  
 
 ### Galaxies 
-Milky Way = :milky_way:
-![Image] (https://www.w3schools.com/w3css/w3css_images.asp)
+Milky Way = :milky_way:  
+
+# Unrelated 
+![Image] (https://github.com/KausharM/Introduction-to-Scientific-Computing-3IE1/blob/master/image.jpg?raw=true)
 
 
 # Rough Work - Introduction-to-Scientific-Computing-3IE1
