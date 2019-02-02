@@ -18,7 +18,8 @@ first quarter moon = :first_quarter_moon:
 full moon = :full_moon:  
 
 ### Galaxies 
-Milky Way = :milky_way:  
+Milky Way = :milky_way:
+![Image] (https://www.w3schools.com/w3css/w3css_images.asp)
 
 
 # Rough Work - Introduction-to-Scientific-Computing-3IE1
@@ -39,7 +40,7 @@ __Telescope__ = :telescope:
 __Microscope__ = :microscope:
 
 ## Inserting an Image from the Web 
-![Image](https://www.w3schools.com/w3css/w3css_images.asp)
+![Image] (https://www.w3schools.com/w3css/w3css_images.asp)
 
 ## Creating a List
 This explains how to create a list: 
